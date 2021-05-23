@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567507417211",
+    "project_id": "table-df386",
+    "storage_bucket": "table-df386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567507417211:android:b4e245dcdecc28a70acade",
+        "android_client_info": {
+          "package_name": "com.letovo.tableview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567507417211-efqph42ifo50p8jmg4pbce6018kho0gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEgxI87LCRMptCXyThSZt73dqcaiN2-vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567507417211-efqph42ifo50p8jmg4pbce6018kho0gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

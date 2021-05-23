@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".start">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       "
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/I"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       I"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/II"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       II"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       III"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       IV"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       V"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       VI"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       VII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       VIII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       VIII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/III8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="       VIII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="153dp"
+        android:layout_height="45dp">
+
+        <TextView
+            android:id="@+id/III9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="75dp"
+            android:layout_height="75dp">
+
+        </TableRow>
+
+        <Button
+            android:id="@+id/i2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+
+        <TextView
+            android:id="@+id/III11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/i10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/i18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     IV"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     IV"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/i36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     V"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i37"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i39"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i45"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     V"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/i54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     VI"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i72"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i73"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i74"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i75"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i76"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i77"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i78"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     VI"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i79"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i81"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i82"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i83"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i84"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i85"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/i86"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     VII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i87"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i88"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_red_light" />
+
+        <Button
+            android:id="@+id/i89"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i104"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i105"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i106"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i107"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i108"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i109"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i110"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+
+        <TextView
+            android:id="@+id/III20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     VII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i111"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i112"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_blue_bright" />
+
+        <Button
+            android:id="@+id/i113"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i114"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i115"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i116"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_orange_light" />
+
+        <Button
+            android:id="@+id/i117"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_light" />
+
+        <TableRow
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+
+        <TableRow
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+
+        <Button
+            android:id="@+id/i118"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/Актинойды"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     VI"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i59"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i60"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i63"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i64"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i65"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i67"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i68"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i69"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i70"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i71"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/III22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    VII"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/i90"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i92"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i93"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i94"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i95"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i96"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i97"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i98"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i99"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i100"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i101"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i102"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i103"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/i91"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+    </TableRow>
+</TableLayout>
